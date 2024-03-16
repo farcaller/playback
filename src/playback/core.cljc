@@ -17,7 +17,7 @@
    #?@(:clj  [[debux.core :as debux :refer [dbg dbgn]]
               [portal.api :as portal]]
        :cljs [[debux.cs.core :as debux :refer-macros [dbg dbgn]]
-              [portal.web :as portal]])))
+              [portal.api :as portal]])))
 
 
 ;;; Vars and Init ;;;
